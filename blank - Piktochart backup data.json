@@ -38,6 +38,35 @@
           "miu": "",
           "id": "b334d408-d7ed-472a-82d5-08b72eb27f16",
           "ft": {}
+        },
+        {
+          "oType": "svg",
+          "x": 54.5,
+          "y": 229.5,
+          "w": 128,
+          "h": 97,
+          "m": [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "locked": 0,
+          "gi": 0,
+          "o": 1,
+          "url": "",
+          "nu": 0,
+          "f": "#000000",
+          "s": "/v2/themes/base/svgs/20140602_Dog2.svg",
+          "viewbox": "0 3.902167797088623 32.00046920776367 24.19483184814453",
+          "v": 0,
+          "miu": "",
+          "id": "96506060-f83c-4fd1-a66d-80517deb7f2e",
+          "ft": {}
         }
       ],
       "id": "50c376de-e6c9-4c61-bc43-ab7c02223485"
@@ -48,7 +77,94 @@
       "bgi": "none",
       "bgo": 0.95,
       "nu": 0,
-      "c": [],
+      "c": [
+        {
+          "oType": "line",
+          "x": 42,
+          "y": 65,
+          "w": 300,
+          "h": 20,
+          "m": [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "locked": 0,
+          "gi": 0,
+          "o": 1,
+          "url": "",
+          "nu": 0,
+          "t": 0.1,
+          "f": "#000000",
+          "dt": "Dashed",
+          "id": "58e7cdae-104e-4cf0-be30-403a7644d2cf"
+        },
+        {
+          "oType": "rich-text",
+          "x": 42,
+          "y": 119,
+          "w": 288,
+          "h": 38,
+          "m": [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "locked": 0,
+          "gi": 0,
+          "o": 1,
+          "url": "",
+          "nu": 0,
+          "state": {
+            "doc": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "textColor",
+                          "attrs": {
+                            "color": "#000000",
+                            "csIdx": null
+                          }
+                        }
+                      ],
+                      "text": "Here is a text"
+                    }
+                  ]
+                }
+              ]
+            },
+            "selection": {
+              "type": "text",
+              "anchor": 15,
+              "head": 15
+            }
+          },
+          "html": "<p><span style=\"color: rgb(0, 0, 0);\">Here is a text</span></p>",
+          "tt": "H2",
+          "ff": "Montserrat",
+          "fs": 38,
+          "sa": "center",
+          "lh": 1,
+          "ls": 0,
+          "id": "8e820ed1-406e-421b-81fe-06dcb68a639f"
+        }
+      ],
       "id": "557264fc-3a69-4c88-af09-20c2329a74bc"
     }
   ],
@@ -57,7 +173,7 @@
   },
   "tid": 547,
   "ts": 0,
-  "dv": 3,
+  "dv": 6,
   "ps": "a4-p",
   "obc": null
 }
